@@ -9,6 +9,6 @@ A set of recources for 3-D chemical models
  ========
  
  The project entitled 'Toe' and all included or associated software are released under
- the MIT software (License)[https://opensource.org/licenses/MIT]
+ the MIT software [License](https://opensource.org/licenses/MIT)
  
 The folowing project contains examples of 3-D models in  chemistry.
